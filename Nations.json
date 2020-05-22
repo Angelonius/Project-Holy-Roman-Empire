@@ -5,22 +5,25 @@
 		"adjective": ["Austrian"],
 		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "The blessings of the gods be upon you, Caesar Augustus, emperor of Rome and all her holdings. Your empire was the greatest and longest lived of all in Western civilization. And your people single handedly shaped its culture, law, art, and warfare like none other, before or since. Through years of glorious conquest, Rome came to dominate all the lands of the Mediterranean from Spain in the west to Syria in the east. And her dominion would eventually expand to cover much of England and northern Germany. Roman art and architecture still awe and inspire the world. And she remains the envy of all lesser civilizations who have followed.",
-		"startIntroPart2": "O mighty emperor, your people turn to you to once more reclaim the glory of Rome! Will you see to it that your empire rises again, bringing peace and order to all? Will you make Rome once again center of the world? Can you build a civilization that will stand the test of time?",
-		"declaringWar": "My treasury contains little and my soldiers are getting impatient... <sigh> ...therefore you must die.",
-		"attacked": "So brave, yet so stupid! If only you had a brain similar to your courage.",
-		"defeated": "The gods have deprived Rome of their favour. We have been defeated.",
-		"introduction": "I greet you. I am Augustus, Imperator and Pontifex Maximus of Rome. If you are a friend of Rome, you are welcome.",
-		"neutralHello": "Hail.",
-		"hateHello": "What do you want?",
-		"tradeRequest": "I offer this, for your consideration.",
-		"outerColor": [ 53,0,87],
-		"innerColor": [238,201,9],
+		"startIntroPart1": "By the Grace of God, all hail Kaiser Karl I, emperor of Austria! Great and holy Austria is the legal descendant of the Roman Empire through the Holy Roman Empire. As such, Austria holds preeminence upon the rulers of Christendom. Austria holds dominion over Hungary, Bohemia, the Triune Kingdom of Croatia, Bosnia, Transylvania, southern Poland and northern Italy. Despite multiple wars, Austria endures! As long as Austria stands, Christendom lives!",
+		"startIntroPart2": "Your Imperial and Royal Majesty, the peoples of the Empire are asking you to help lead the Empire to victory against all those who oppose it! Will you uphold Christendom? Can you build a civilization that will stand the test of time?",
+		"declaringWar": "This means war!",
+		"attacked": "I will only receive your utter submission!",
+		"defeated": "The defeat of Austria is the death of Christendom. Dark times are upon us all.",
+		"introduction": "As the emperor of Austria, you are worthy of my attention.",
+		"neutralHello": "Hello!",
+		"hateHello": "What?",
+		"tradeRequest": "You will have the privilege of trading with me.",
+		"outerColor": [207,181,59],
+		"innerColor": [212,175,75],
 		"unique": "GLORY_OF_ROME",
-		"cities": ["Rome","Antium","Cumae","Neapolis","Ravenna","Arretium","Mediolanum","Arpinum","Circei","Setia",
-			"Satricum","Ardea","Ostia","Velitrae","Viroconium","Tarentum","Brundisium","Caesaraugusta","Caesarea","Palmyra",
-			"Signia","Aquileia","Clusium","Sutrium","Cremona","Placentia","Hispalis","Artaxata","Aurelianorum","Nicopolis",
-			  "Agrippina","Verona","Corfinium","Treverii","Sirmium","Augustadorum","Curia","Interrama","Adria",]
+		"cities": ["Wien","Salzburg","Graz","Eisenstadt","Sankt Pölten","Klagenfurt","Linz","Innsbruck","Trent",
+                           "Venedig","Bregenz","Bozen","Budapescht","Prag","Zagreb","Laibach","Preßburg","Lemberg","Klausenburg",
+                           "Mailand","Triest","Tschernowitz","Zadar","Görz","Gradisca","Rovinj","Brünn","Troppau","Sankt Veit am Flaum",
+                           "Sarajevo","Temeschwar","Florenz","Krakau","Nanzig","Modena",]
+			
+			
+			
         }
 
 	
