@@ -2,7 +2,7 @@
     {
 		"name": "Imperial Knight",
         "replaces": "Knight",
-        "uniqueTo": "United States of Greater Austria",
+        "uniqueTo": "Austria",
 		"unitType": "Mounted",
 		"movement": 5,
 		"strength": 30,
@@ -17,7 +17,7 @@
 	{
 		"name": "Royal Hussar",
 		"replaces": "Lancer",
-        "uniqueTo": "United States of Greater Austria",
+        "uniqueTo": "Austria",
 		"unitType": "Mounted",
 		"movement": 5,
 		"strength": 25,
