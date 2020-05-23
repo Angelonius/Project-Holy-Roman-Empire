@@ -15,7 +15,7 @@
 		"hateHello": "What?",
 		"tradeRequest": "You will have the privilege of trading with us.",
 		"outerColor": [207,181,59],
-		"innerColor": [212,175,75],
+		"innerColor": [0,0,0],
 		"unique": "GLORY_OF_ROME",
 		"cities": ["Wien","Salzburg","Graz","Eisenstadt","Sankt Pölten","Klagenfurt","Linz","Trent","Venedig","Bregenz",
 			"Bozen","Budapescht","Prag","Zagreb","Laibach","Pressburg","Lemberg","Klausenburg","Mailand","Triest",
