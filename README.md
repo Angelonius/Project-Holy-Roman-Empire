@@ -6,3 +6,6 @@ Updated the Imperial Knight icon
 
 v. 1.2
 Updated the mod in line with new defines
+
+v. 1.3
+Updated the game.png file.
