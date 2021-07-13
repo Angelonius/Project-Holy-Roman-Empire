@@ -14,3 +14,6 @@ Updated the game.png file.
 
 v. 1.4:
 Updated the game.atlas file and the Royal Hussar png file.
+
+v. 1.5:
+Updated the Imperial Knight's uniques and promotions.
