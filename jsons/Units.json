@@ -9,7 +9,7 @@
 		"cost": 120,
 		"requiredTech": "Chivalry",
 		"requiredResource": "Horses",
-		"uniques": ["Can move after attacking","No defensive terrain bonus","+[50]% Strength vs [Mounted]","+[50]% Strength vs [Melee]"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus","+[50]% Strength vs [Mounted]"],
 		"promotions": ["Charge","Great Generals II","Quick Study"],
         "hurryCostModifier": 20,
 		"attackSound": "horse"
@@ -25,7 +25,7 @@
 		"requiredTech": "Metallurgy",
 		"requiredResource": "Horses",
 		"hurryCostModifier": 20,
-		"uniques": ["Can move after attacking","No defensive terrain bonus"],
+		"uniques": ["Can move after attacking","No defensive terrain bonus",],
 		"promotions": ["Formation I"],
 		"attackSound": "horse"
 	}
