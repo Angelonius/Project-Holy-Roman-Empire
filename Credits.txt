@@ -2,7 +2,8 @@ Here are all the sources for the various image files used in this mod along with
 
 1. Schönbrunn Palace: https://thenounproject.com/icon/3189176/ by Wichai Wi
 2. Sword: https://thenounproject.com/icon/1630431/ by SKETCH ICON, ID
-3. Saber: http://icon-library.com/tags/sabre.html
-4. The game.atlas and game.png files: Red11 from the UnCiv Discord
+3. Saber (prior to v.1.6): http://icon-library.com/tags/sabre.html
+4. The game.atlas and game.png files prior to v.1.2: Red11 from the UnCiv Discord
+5. Machine gun: https://thenounproject.com/search/?q=machine+gun&i=3998850 by Izwar Muis, ID 
 
 Inmperial Knight for v. 1.1: https://www.kissclipart.com/knight-horse-animal-sports-cowboy-reining-0ftcpa/
