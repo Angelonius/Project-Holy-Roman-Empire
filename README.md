@@ -17,3 +17,6 @@ Updated the game.atlas file and the Royal Hussar png file, approved the translat
 
 v. 1.5:
 Updated the Imperial Knight's uniques and promotions.
+
+v. 1.6:
+Replaced the Royal Hussar with the Bosniaken Machinegunner.
