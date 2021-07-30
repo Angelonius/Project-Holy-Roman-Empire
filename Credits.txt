@@ -1,8 +1,8 @@
 Here are all the sources for the various image files used in this mod along with the.atlas file:
 
 1. Schönbrunn Palace: https://thenounproject.com/icon/3189176/ by Wichai Wi
-2. Sword: https://thenounproject.com/icon/1630431/ by SKETCH ICON, ID
-3. Saber (prior to v.1.6): http://icon-library.com/tags/sabre.html
+2. Sword (prior to v.1.1): https://thenounproject.com/icon/1630431/ by SKETCH ICON, ID
+3. Saber (prior to v.1.6): https://icon-library.com/png/181300.html
 4. The game.atlas and game.png files prior to v.1.2: Red11 from the UnCiv Discord
 5. Machine gun: https://thenounproject.com/search/?q=machine+gun&i=3998850 by Izwar Muis, ID 
 
