@@ -28,5 +28,5 @@
 		"uniques": ["Can move after attacking","Can move immediately once bought"],
 		"promotions": ["Extended Range"],
 		"attackSound": "machinegun"
-	}
+	},
 ]
