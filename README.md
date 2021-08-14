@@ -20,3 +20,6 @@ Updated the Imperial Knight's uniques and promotions.
 
 v. 1.6:
 Replaced the Royal Hussar with the Bosniaken Machinegunner.
+
+v.1.7:
+Updated the Bosniaken Machinegunner in accord to the current updates to the base game.
