@@ -25,4 +25,4 @@ v.1.7:
 Updated the Bosniaken Machinegunner in accord to the current updates to the base game.
 
 v.1.8:
-Updated the Austrian flag.
+Updated the Austrian flag, used the local names for the various cities of the empire.
