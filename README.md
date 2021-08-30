@@ -23,3 +23,6 @@ Replaced the Royal Hussar with the Bosniaken Machinegunner.
 
 v.1.7:
 Updated the Bosniaken Machinegunner in accord to the current updates to the base game.
+
+v.1.8:
+Updated the Austrian coat of arms.
