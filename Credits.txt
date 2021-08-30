@@ -5,5 +5,9 @@ Here are all the sources for the various image files used in this mod along with
 3. Saber (prior to v.1.6): https://icon-library.com/png/181300.html
 4. The game.atlas and game.png files prior to v.1.2: Red11 from the UnCiv Discord
 5. Machine gun: https://thenounproject.com/search/?q=machine+gun&i=3998850 by Izwar Muis, ID 
+6. Austrian coat of arms for v.1.8: 
+6.1. The Habsburg coat of arms: https://en.wikipedia.org/wiki/House_of_Habsburg
+6.2. The image: https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Imperial_Coat_of_Arms_of_the_Empire_of_Austria_%281815%29.svg/800px-Imperial_Coat_of_Arms_of_the_Empire_of_Austria_%281815%29.svg.png
+6.3 Turning the image into pure black-and-white: https://online-photo-converter.com/black-and-white-image
 
 Inmperial Knight for v. 1.1: https://www.kissclipart.com/knight-horse-animal-sports-cowboy-reining-0ftcpa/
