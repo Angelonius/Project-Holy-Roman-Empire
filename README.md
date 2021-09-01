@@ -26,3 +26,6 @@ Updated the Bosniaken Machinegunner in accord to the current updates to the base
 
 v.1.8:
 Updated the Austrian flag, used the local names for the various cities of the empire.
+
+v.1.9:
+Changed the name of the country to the United States of Greater Austria.
