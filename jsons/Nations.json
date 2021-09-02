@@ -16,7 +16,7 @@
 		"tradeRequest": "You will have the privilege of trading with us.",
 		"outerColor": [207,181,59],
 		"innerColor": [0,0,0],
-		"unique": "Viribus Unitis",
+		"uniqueName": "Viribus Unitis",
 		"uniques": ["+[2] Movement for all [Mounted] units", "Double quantity of [Horses] produced", "+50% Production towards any buildings that already exist in the Capital","-[50]% [Land] unit maintenance costs"],
 		"cities": ["Wien","Salzburg","Graz","Eisenstadt","Sankt Pölten","Klagenfurt","Linz","Trent","Venezia","Bregenz",
 			"Bozen","Budapest","Praha","Zagreb","Ljubljana","Pressburg","Lviv","Cluj-Napoca","Milano","Trieste",
