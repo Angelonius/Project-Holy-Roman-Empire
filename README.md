@@ -1,4 +1,4 @@
-# Project-Austria
+# Project-Holy-Roman-Empire
 This is a mod for UnCiv where I add the United States of Greater Austria
 
 CHANGELOG: 
