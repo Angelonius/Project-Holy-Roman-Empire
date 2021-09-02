@@ -29,3 +29,6 @@ Updated the Austrian flag, used the local names for the various cities of the em
 
 v.1.9:
 Changed the name of the country to the United States of Greater Austria.
+
+v.1.10:
+Renamed repository and country to the Holy Roman Empire due to the inclusion of Austria into vanilla Unciv, changed the ruler to Leopold I of the Holy Roman Empire and expanded the number of cities.
