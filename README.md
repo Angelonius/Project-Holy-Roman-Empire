@@ -32,3 +32,6 @@ Changed the name of the country to the United States of Greater Austria.
 
 v.1.10:
 Renamed repository and country to the Holy Roman Empire due to the inclusion of Austria into vanilla Unciv, changed the ruler to Leopold I of the Holy Roman Empire and expanded the number of cities.
+
+v.1.11:
+Changed the Bosniaken Machinegunner into Arbalestier, removed the "No defensive terrain bonus" on the Imperial Knight.
