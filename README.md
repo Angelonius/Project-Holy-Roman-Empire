@@ -35,3 +35,6 @@ Renamed repository and country to the Holy Roman Empire due to the inclusion of 
 
 v.1.11:
 Changed the Bosniaken Machinegunner into Arbalestier, removed the "No defensive terrain bonus" on the Imperial Knight.
+
+v.1.12:
+Added in the "Favored Religion" mechanic in line with the latest update to the base game. 
