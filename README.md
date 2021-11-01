@@ -38,3 +38,6 @@ Changed the Bosniaken Machinegunner into Arbalestier, removed the "No defensive 
 
 v.1.12:
 Added in the "Favored Religion" mechanic in line with the latest update to the base game. 
+
+v.1.13:
+Updated the Land Unit maintenance values to make it work with the base game.
