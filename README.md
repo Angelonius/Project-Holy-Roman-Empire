@@ -41,3 +41,6 @@ Added in the "Favored Religion" mechanic in line with the latest update to the b
 
 v.1.13:
 Updated the Land Unit maintenance values to make it work with the base game.
+
+v.1.14:
+Updated the damage values.
