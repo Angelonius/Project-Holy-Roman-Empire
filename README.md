@@ -1,5 +1,5 @@
 # Project-Holy-Roman-Empire
-This is a mod for UnCiv where I add the United States of Greater Austria
+This is a mod for UnCiv where I add the Holy Roman Empire.
 
 CHANGELOG: 
 
