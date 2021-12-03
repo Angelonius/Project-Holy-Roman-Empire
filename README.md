@@ -44,3 +44,6 @@ Updated the Land Unit maintenance values to make it work with the base game.
 
 v.1.14:
 Updated the damage values.
+
+v.1.15:
+Updated the National Unique.
