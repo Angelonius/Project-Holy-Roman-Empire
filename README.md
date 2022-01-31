@@ -47,3 +47,6 @@ Updated the damage values.
 
 v.1.15:
 Updated the National Unique.
+
+v.1.16:
+Updated the Imperial Knight.
