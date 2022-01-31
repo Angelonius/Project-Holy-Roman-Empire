@@ -18,7 +18,7 @@
 		"innerColor": [0,0,0],
 		"favoredReligion": "Christianity",
 		"uniqueName": "Austriae est imperare orbi universo",
-		"uniques": ["+[2] Movement <for [Mounted] units>s", "Double quantity of [Horses] produced", "+50% Production towards any buildings that already exist in the Capital","-[50]% maintenance costs for [Land] units"],
+		"uniques": ["+[2] Movement <for [Mounted] units>s", "Double quantity of [Horses] produced", "[+50%] Production towards any buildings that already exist in the Capital","-[50]% maintenance costs for [Land] units"],
 		"cities": ["Wean","Soizbuag","Graz","Eisnstod","Sankt Pödn","Klognfuat","Linz","Trent","Bregenz",
 			   "Bozen","Rengschburg","Minga","Berchtesgaden","Breitenegg","Ehrenfels","Freising","Haag",
 			   "Hohenwaldeck","Leuchtenberg","Niedermünster","Obermünster","Ortenburg","Pfalz-Neuburg","Pfalz-Sulzbach",
