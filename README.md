@@ -50,3 +50,6 @@ Updated the National Unique.
 
 v.1.16:
 Updated all jsons.
+
+v.1.17:
+Updated the Imperial Knight sprite.
